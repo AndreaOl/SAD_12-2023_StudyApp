@@ -3,7 +3,7 @@
 
 **Autori: Olandese Andrea, Coppola Adriano, Guerrisi Salvatore**
 
-[Documentazione]([https://github.com/AndreaOl/SAD_12-2023_StudyApp/blob/main/Olandese_Coppola_Guerrisi_Progetto_SAD_12-2023.pdf](https://raw.githubusercontent.com/AndreaOl/SAD_12-2023_StudyApp/main/Olandese_Coppola_Guerrisi_Progetto_SAD_12-2023.pdf)).
+[Documentazione](https://raw.githubusercontent.com/AndreaOl/SAD_12-2023_StudyApp/main/Olandese_Coppola_Guerrisi_Progetto_SAD_12-2023.pdf).
 
 StudyApp è una web-app progettata per facilitare l’organizzazione di sessioni di studio tra studenti con interessi accademici simili. L’applicazione offre un ambiente virtuale in cui gli utenti possono trovare vecchi e nuovi compagni di studio, pianificare e partecipare a sessioni di studio collettive, con lo scopo di condividere conoscenze e risorse pertinenti alle loro materie di studio.
 ## Compilazione
