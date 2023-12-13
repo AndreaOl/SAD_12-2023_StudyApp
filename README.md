@@ -11,7 +11,8 @@ Dopo aver installato **Java JDK 17** e aver settato la variabile d'ambiente **JA
 ```
 mvnw clean vaadin:build-frontend package -Pproduction
 ```
-Questo produrrà un file jar presente nella cartella target
+Questo produrrà un file jar presente nella cartella target.
+
 Una versione pre-compilata del progetto è scaricabile come [release](https://github.com/AndreaOl/SAD_12-2023_StudyApp/releases/latest/download/studyapp-1.0.jar).
 ## Esecuzione
 L'applicazione va eseguita in una macchina che abbia **PostgreSQL** installato con database e parametri di autenticazione configurati nel file [application.properties](https://github.com/AndreaOl/SAD_12-2023_StudyApp/blob/main/src/main/resources/application.properties). Lo stesso file permette di configurare la comunicazione con un database presente su una macchina diversa o esposto su una porta diversa da quella di default.
