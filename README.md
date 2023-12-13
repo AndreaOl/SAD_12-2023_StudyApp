@@ -1,5 +1,6 @@
 # SAD_12-2023_StudyApp
 **Progetto per l'esame di *Software Architecture Design* di dicembre 2023**
+
 **Autori: Olandese Andrea, Coppola Adriano, Guerrisi Salvatore**
 
 StudyApp è una web-app progettata per facilitare l’organizzazione di sessioni di studio tra studenti con interessi accademici simili. L’applicazione offre un ambiente virtuale in cui gli utenti possono trovare vecchi e nuovi compagni di studio, pianificare e partecipare a sessioni di studio collettive, con lo scopo di condividere conoscenze e risorse pertinenti alle loro materie di studio.
